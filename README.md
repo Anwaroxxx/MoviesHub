@@ -301,25 +301,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 🙏 Acknowledgments
-
-- [React](https://reactjs.org/) - The amazing JavaScript library
-- [Tailwind CSS](https://tailwindcss.com/) - For the utility-first CSS framework
-- [React Icons](https://react-icons.github.io/react-icons/) - For the beautiful icons
-- [Vite](https://vitejs.dev/) - For the blazing fast build tool
-- [React Router](https://reactrouter.com/) - For seamless navigation
-
----
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/movieshub?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/movieshub?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/movieshub?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/movieshub?style=for-the-badge)
-
----
-
 <div align="center">
 
 ### 🌟 If you like this project, please give it a star! 🌟
