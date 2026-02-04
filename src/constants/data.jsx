@@ -1,0 +1,1 @@
+export * as MoviesData from '../data/movie.json';
