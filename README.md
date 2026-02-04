@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Your Name**
 
 - GitHub: [@Anwaroxxx](https://github.com/Anwaroxxx)
-- LinkedIn: [Your Name](https://linkedin.com/in/Anwar_Azarzou)
+- LinkedIn: [Anwar Azarzou](https://linkedin.com/in/Anwar_Azarzou)
 - Email: anwar.azarzou.6969@gmail.com
 
 ---
